@@ -2,4 +2,7 @@
   <component name="ComposeFilesSynchronizedWithServiceView">
     <option value="file://$USER_HOME$/Documents/GitHub/spring-web-app/docker-compose.yaml" />
   </component>
+  <component name="DockerSettings">
+    <option name="dockerComposePath" value="C:\Program Files\Docker\Docker\resources\bin\docker-compose.exe" />
+  </component>
 </application>
